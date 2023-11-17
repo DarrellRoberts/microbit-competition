@@ -1,4 +1,4 @@
-Microbit Competition 2018 - My very first project
+# Microbit Competition 2018 - My very first project
 
 When I was a performance marketing graduate at Publicis Media, the SEO department ran a coding competition. 
 
